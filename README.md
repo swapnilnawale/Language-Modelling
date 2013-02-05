@@ -1,5 +1,5 @@
-Language-Modelling
-==================
+N-gram based Language-Modelling using Python
+============================================
 
 Implementation of Language Modelling based N-gram probability prediction  
 
